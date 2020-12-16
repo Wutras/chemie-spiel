@@ -1,0 +1,9 @@
+.popupMessage {
+    background-color: blanchedalmond;
+    border: 2px solid orange;
+    position: absolute;
+    width: 50%;
+    left: 25%;
+    height: 20%;
+    top: 40%;
+}

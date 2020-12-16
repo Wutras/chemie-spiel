@@ -1,0 +1,38 @@
+{
+  "questions": [
+    {
+      "qText": "Klicke auf den Buben",
+      "answers": [
+        {
+          "name": "Bube",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Poker-sm-214-Js.png",
+          "text": "Dies ist ein Bube. Klick ihn an.",
+          "isCorrect": true
+        },
+        {
+          "name": "König",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Poker-sm-212-Ks.png/213px-Poker-sm-212-Ks.png",
+          "text": "Dies ist ein König. Klick ihn nicht an.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "qText": "Klicke auf den König",
+      "answers": [
+        {
+          "name": "Bube",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Poker-sm-214-Js.png",
+          "text": "Dies ist ein Bube. Klick ihn nicht an.",
+          "isCorrect": false
+        },
+        {
+          "name": "König",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Poker-sm-212-Ks.png/213px-Poker-sm-212-Ks.png",
+          "text": "Dies ist ein König. Klick ihn an.",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}
